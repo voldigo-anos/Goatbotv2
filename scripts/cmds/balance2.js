@@ -287,8 +287,8 @@ const drawStyledText = (ctx, text, x, y, fontSize, color, theme, align = 'left',
 
 module.exports = {
   config: {
-    name: "balance",
-    aliases: ["bal", "$", "cash"],
+    name: "balance2",
+    aliases: ["bal2"],
     version: "6.0",
     author: "Christus",
     countDown: 3,
